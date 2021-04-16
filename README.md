@@ -1,2 +1,0 @@
-# biasoftech
-my website
