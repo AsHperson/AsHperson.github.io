@@ -1,2 +1,2 @@
-# biasoftech
+# biasof.tech
 my website
