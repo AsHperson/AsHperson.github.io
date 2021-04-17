@@ -1,2 +1,2 @@
-# biasof.tech
+# [biasof.tech](https://biasof.tech)
 my website
